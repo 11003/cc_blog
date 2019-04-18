@@ -1,0 +1,6 @@
+files
+runtime
+.idea
+public/common
+public/plug
+conf.php

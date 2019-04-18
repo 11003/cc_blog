@@ -1,0 +1,40 @@
+.content{background: #fff;}
+.header_user_name{line-height: 56px;}
+.breadcrumb{line-height: 36px;}
+.wq_tab_nav{margin: 0px 10px 10px 10px;background-color: white;}
+.span_status_formart{
+    color: white;
+    background-color: #929292;
+    padding: 3px 10px;
+    border-radius: 13px;
+    display: inline-block;
+}
+.x-tip .x-tip-container{
+    color: #1a58a5;
+}
+.header_logo{width: 120px}
+.btn-gray{background-color: #818ca0;}
+.btn-gray:hover{background-color: #707886;}
+.header .header_left{
+    position: absolute;
+    top: 0;
+    left: 20px;
+    height: 56px;
+    line-height: 56px;
+    text-align: center;
+    z-index: 200;
+    color: white;
+    float: inherit;
+    padding: 0;
+}
+.header_left .title{
+    position: absolute;
+    top: 0px;
+    right: -195px;
+    display: inline-block;
+    color: #ec8300;
+    font-size: 26px;
+}
+.header_user_avatar{
+    margin-right: 20px;
+}
